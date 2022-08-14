@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.2",
+    "name": "Majestycraft-Launcher",
+    "preductname": "mMajestycraft Launcher",
+    "version": "1.0.0",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "author": "Luuxis,Hatasia,san202",
+    "url": "http://hopeful-poincare.82-165-110-232.plesk.page",
     "engines": {
         "node": "16.x.x"
     },
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/san20002/majestycraft/"
     }
 }
